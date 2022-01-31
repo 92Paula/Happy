@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+padding: 8rem;
+margin-top: 50%;
+margin-bottom: 50%;
+font-family: Neonderthaw;
+text-align: center;
+font-size: 11rem;
+
+}
+
+
+
+body{
+
+  background: url("images/confetti.gif");
+  width: inherit;
+  height: inherit;
+}
